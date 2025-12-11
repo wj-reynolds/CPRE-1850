@@ -1,4 +1,0 @@
-There will be an x-axis graph that has all three types of motion.
-
-3 motions, with each window length
-Raw data for each window length

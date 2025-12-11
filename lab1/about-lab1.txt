@@ -1,0 +1,1 @@
+This lab had us get used to the program that ISU uses called ds4rd.exe. I won't be distributing that here and there was no code in this lab otherwise. We did take some measurements and make some graphs based on a DualShock 4's accelerometers.
