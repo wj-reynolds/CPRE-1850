@@ -1,0 +1,19 @@
+1.
+
+First trial: .280 meters in .239 seconds
+Second trial: .242 meters in .222 seconds
+Third trial: .319 meters in . 255 seconds
+Fourth trial: .285 meters in .241 seconds
+Fifth trial: .287 meters in .242 seconds
+
+2.
+
+According to my code, the third floor railing to the bottom floor is a distance of 26.973 meters.
+
+3.
+
+Use output.csv
+
+4.
+
+Demo!

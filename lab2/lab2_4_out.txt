@@ -1,0 +1,15 @@
+a: 6427 + 1725 is 8152
+b: 6971 * 3925 - 95 is 27361080
+c: 79 + 12 / 5 is 81.00
+d: 3640 / 107.9 is 33.73
+e: (22 / 3) * 3 is 21
+f: 22 / (3 * 3) is 2
+g: 22 / (3 * 3) is 2.00
+h: 22 / 3 * 3 is 21.00
+i: (22 / 3) * 3 is 22.00
+j: 22 / (3 * 3) is 2
+k: 22 / 3 * 3 is 22.00
+
+The area of a circle with a circumference of 23.57 is 44.20
+14 feet is about 4.27 meters
+76 degrees fahrenheit is equal to 76.00 degrees centigrade
